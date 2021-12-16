@@ -3,21 +3,22 @@
     padding: 0;
 }
 
-.container {
-}
-
 .slider {
-    border: dimgray solid 2px;
-    /*width: 960px;*/
-    /*height: 560px;*/
-    max-width: 80%;
+    max-width: 50%;
     margin: 10px auto;
-    /*overflow: hidden;*/
+    overflow: hidden;
 }
 
 .slider-line {
     display: flex;
     transition: all ease 1s;
+}
+
+.button {
+
+    max-width: 50%;
+    margin: 10px auto;
+    overflow: hidden;
 }
 
 
