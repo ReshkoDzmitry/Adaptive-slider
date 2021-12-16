@@ -1,2 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+}
+
+.slider {
+    border: dimgray solid 2px;
+    /*width: 960px;*/
+    /*height: 560px;*/
+    max-width: 80%;
+    margin: 10px auto;
+    /*overflow: hidden;*/
+}
+
+.slider-line {
+    display: flex;
+    transition: all ease 1s;
+}
 
 
