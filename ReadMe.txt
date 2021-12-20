@@ -1,3 +1,3 @@
 Adaptive slider in pure JS.
 
-Link: https://reshkodzmitry.github.io/Slider/
+Link: https://reshkodzmitry.github.io/Adaptive-slider/
